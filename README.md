@@ -6,3 +6,4 @@ It auguments different models of spaceships and fighter planes in the surroundin
 Player has to aim and shoot down the spaceships by rotating and moving the device all around.
 Player has a shoot button which fires a bullet and gets destroyed automatically after 3 seconds.
 Player has to shoot down all the visible spaceships to win!
+my name is eklavya
